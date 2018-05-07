@@ -1,13 +1,3 @@
-notes pour le jury : 
--Ce projet a été importé après sa réalisation
-
-- compte administrateur : 
-Identifiant: DavidOPC
-MDP: IMptWJOzq$IUug0HF5 
-
-- compte éditeur :
-Identifiant: StrasbourODT
-MDP : Y&*BYEHI*PLLJw4)KMv*zmEV
 
 - lien : http://www.david-alfaro.com/parcours-dev/projet-2/
 
